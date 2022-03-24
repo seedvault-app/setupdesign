@@ -8,4 +8,8 @@
     <!-- Stop lint from complaining about SDK version checks in the "platform" variant -->
     <issue id="ObsoleteSdkInt" severity="ignore" />
     <issue id="RtlEnabled" severity="ignore" />
+
+    <issue id="ResourceType" severity="ignore" />
+    <issue id="AppCompatCustomView" severity="ignore" />
+    <issue id="MissingDefaultResource" severity="ignore" />
 </lint>
